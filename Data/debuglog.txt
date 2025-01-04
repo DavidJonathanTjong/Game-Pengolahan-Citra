@@ -1,0 +1,13 @@
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Beauty Bridget!"
+"Beauty Bridget sent out Skitty!"
+"Go! Pikachu!"
+[Round order] Pikachu (0), the opposing Skitty (1)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+"You got away safely!"

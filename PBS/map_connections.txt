@@ -1,0 +1,8 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Jalan 1 (33) - Home Map (22)
+33,South,0,22,North,23
+# Jalan 2 (42) - Jalan 1 (33)
+42,West,14,33,East,0
+# Jembatan Akhir (43) - Jalan 2 (42)
+43,South,1,42,North,0
